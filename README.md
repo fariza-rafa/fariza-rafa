@@ -2,7 +2,7 @@
 
 ### This is Fariza Mubashshara Rafa 👋🏼
 
-<p align="center"><img src="https://pngtree.com/freepng/elegant-muslimah-with-assalamualaikum-greetings-png_6542537.html" width="150"/></p>
+<p align="center"><img src="https://www.pinterest.com/pin/273945589826480583/" width="150"/></p>
 <p align="center">
 </p>
 <p align="center">
