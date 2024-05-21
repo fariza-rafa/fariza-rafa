@@ -2,7 +2,7 @@
 
 ### Fariza Mubashshara Rafa
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]https://tenor.com/bVV6v.gif" width="100"/></p>
+<p align="center"><img src="https://tenor.com/bVV6v.gif" width="100"/></p>
 <p align="center">
 </p>
 <p align="center">
