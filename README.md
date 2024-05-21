@@ -2,7 +2,7 @@
 
 ### Fariza Mubashshara Rafa
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/bVV6v.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]https://tenor.com/bVV6v.gif" width="100"/></p>
 <p align="center">
 </p>
 <p align="center">
@@ -18,8 +18,6 @@ I am a student.
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fariza-rafa/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/fariza.rafaa)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:farizarafa123@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-
 
 ## 🛠️ Skills
 
@@ -39,7 +37,7 @@ About me:
 - 👯 I’m looking to collaborate on various project.
 - 🤔 I’m looking for help with game development.
 - 💬 Ask me about anything.
-- 📫 How to reach me: Email, Facebook
+- 📫 How to reach me: LinkedIn, Facebook.
 
 
 ### 🔥 &nbsp; My Stats :
