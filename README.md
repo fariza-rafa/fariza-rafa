@@ -2,7 +2,7 @@
 
 ### Fariza Mubashshara Rafa
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk0cDR3cXc0MmE3bjdjOWM2cXhqbjlwbGMyMDQxZ3M0MTZtZWR5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk0cDR3cXc0MmE3bjdjOWM2cXhqbjlwbGMyMDQxZ3M0MTZtZWR5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" width="150"/></p>
 <p align="center">
 </p>
 <p align="center">
