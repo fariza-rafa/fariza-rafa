@@ -2,7 +2,7 @@
 
 ### This is Fariza Mubashshara Rafa 👋🏼
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW44cmZkajk2eHhvYmM1aHN3d3Y0NHpmZHZ3OXY1NWNweGN6c3QxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Kdb4AXs1qQVM2w3WF/giphy.gif" width="150"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW44cmZkajk2eHhvYmM1aHN3d3Y0NHpmZHZ3OXY1NWNweGN6c3QxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Kdb4AXs1qQVM2w3WF/giphy.gif" width="200"/></p>
 <p align="center">
 </p>
 <p align="center">
