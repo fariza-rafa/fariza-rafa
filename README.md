@@ -21,7 +21,7 @@ I am a graduate student of Information Science. A pure introvert.
 
 ## My stacks :four_leaf_clover:
 <img src="https://img.shields.io/badge/Languages-8a2be2?style=for-the-badge&logo=shell&logoColor=FFFFFF">![badge-js](https://img.shields.io/badge/JScript-211e1b?style=for-the-badge&logo=javascript&logoColor=8a2be2&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=8a2be2&labelColor=211e1b) <br/>
-<img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/android-211e1b?style=for-the-badge&logo=android&logoColor=8a2be2&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=8a2be2&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-bootstrap](https://img.shields.io/badge/bootstrap-211e1b?style=for-the-badge&logo=bootstrap&logoColor=8a2be2&labelColor=211e1b) <br/>
 <img src="https://img.shields.io/badge/Database-8a2be2?style=for-the-badge&logo=databricks&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=8a2be2&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=8a2be2&labelColor=211e1b)
 
 About me:
