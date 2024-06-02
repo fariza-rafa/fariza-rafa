@@ -28,7 +28,7 @@ class fariza-rafa:
 </p> 
 
 ## My handles :jack_o_lantern:
- [<img src="https://img.shields.io/badge/LinkedIn-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/fariza-rafa/)  [<img src="https://img.shields.io/badge/StackOverflow-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=8a2be2">](https://stackoverflow.com/users/https://stackoverflow.com/users/15362682/fariza-mubashshara-rafa) 
+ [<img src="https://img.shields.io/badge/LinkedIn-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/fariza-rafa/)
  [<img src="https://img.shields.io/badge/facebook-211e1b?style=for-the-badge&logo=facebook&logoColor=8a2be2">](https://facebook.com/fariza.rafaa)
 
 <p align="center"> 
