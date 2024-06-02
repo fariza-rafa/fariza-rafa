@@ -3,7 +3,7 @@ from dataclasses import dataclass
 @dataclass
 class fariza-rafa:
     research: list[str] = ["Network Sharing", "DML", "Misinformation" ]
-    interest: list[str] = ["Photography","Astronomy","Literature","Music"]
+    interest: list[str] = ["Chess","Astronomy","Literature","Music"]
     welcome: list[str] = ["Mentor me", "Collaboration"]
     funfact: str = None
 ```
