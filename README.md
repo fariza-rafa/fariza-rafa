@@ -14,6 +14,7 @@ class fariza-rafa:
 <img src="https://img.shields.io/badge/Database-8a2be2?style=for-the-badge&logo=databricks&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=8a2be2&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=8a2be2&labelColor=211e1b)
 
 <a href="https://github.com/fariza-rafa/fariza-rafa"><img alt="Rafa's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariza-rafa&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+<br><br><br>
 
 ## My stats  :hatched_chick:
 
