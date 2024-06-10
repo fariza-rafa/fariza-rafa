@@ -37,3 +37,5 @@ class fariza-rafa:
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/fariza-rafa/count.svg" />
 </p>
+
+<!-- I have took this readme idea from Nazia Tasnim Apu (appledora). Loved her readme so much.--->
