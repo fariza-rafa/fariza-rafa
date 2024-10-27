@@ -33,23 +33,6 @@ class fariza-rafa:
  [<img src="https://img.shields.io/badge/LinkedIn-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/fariza-rafa/)
  [<img src="https://img.shields.io/badge/facebook-211e1b?style=for-the-badge&logo=facebook&logoColor=8a2be2">](https://facebook.com/fariza.rafaa)
 
-# MyStats On Competitive Programming
-
-
-| OJ | Username | Solve Count |
-| -- | -------- | ----------- |
-| Codeforces | [tanvirshossain](https://codeforces.com/profile/raphpie) | 1218 |
-| CodeChef | [tstanvir](https://www.codechef.com/users/raphpie) | 225 |
-| AtCoder | [tstanvir](https://atcoder.jp/users/raphpie) | 353 |
-| SPOJ | [tstanvir](https://www.spoj.com/users/raphpie/) | 18 | 
-| LightOJ | [tanvirshossain](https://lightoj.com/user/raphpie) | 112 | 
-| Toph | [tstanvir](https://toph.co/u/raphpie) | 58 |
-| UVA | [tstanvir](https://uhunt.onlinejudge.org/id/896377) | 109 |
-| Total | | 2093 |
-
-
- 
-
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/fariza-rafa/count.svg" />
