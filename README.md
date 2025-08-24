@@ -14,7 +14,7 @@ class fariza-rafa:
 |-----------|----------------------|
 | <img src="https://img.shields.io/badge/Languages-8a2be2?style=for-the-badge&logo=shell&logoColor=FFFFFF">![badge-js](https://img.shields.io/badge/JScript-211e1b?style=for-the-badge&logo=javascript&logoColor=8a2be2&labelColor=211e1b) <br/> <img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-bootstrap](https://img.shields.io/badge/bootstrap-211e1b?style=for-the-badge&logo=bootstrap&logoColor=8a2be2&labelColor=211e1b) <br/> <img src="https://img.shields.io/badge/Database-8a2be2?style=for-the-badge&logo=databricks&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=8a2be2&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=8a2be2&labelColor=211e1b) | <a href="https://github.com/fariza-rafa/fariza-rafa"><img alt="Rafa's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariza-rafa&layout=compact&langs_count=8&theme=gruvbox" width=100%/></a> |
 
-## My stats  :hatched_chick:
+## My stats :hatched_chick:
 
 <p align="center">
   <img height="200" src="https://github-profile-trophy.vercel.app/?username=fariza-rafa&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest,Issues"/>
@@ -24,6 +24,7 @@ class fariza-rafa:
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fariza-rafa&theme=tokyonight&border=61dafb&hide_border=true" alt="streak stats" />
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=fariza-rafa&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" alt="github stats" />
 </p>
+
 
 
 ## My handles :jack_o_lantern:
