@@ -18,8 +18,8 @@ class fariza-rafa:
 
 <p align = "center">
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=fariza-rafa&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest,Issues"/>
+<p/>
 
-</p>
 
 <p align=left>
       <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=fariza-rafa&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
@@ -33,4 +33,4 @@ class fariza-rafa:
  [<img src="https://img.shields.io/badge/facebook-211e1b?style=for-the-badge&logo=facebook&logoColor=8a2be2">](https://facebook.com/fariza.rafaa)
 
 
-<!-- I have took this readme idea from Nazia Tasnim Apu (appledora). Loved her readme so much.--->
+<!-- I have taken this readme idea from Nazia Tasnim Apu (appledora). Loved her readme so much.--->
